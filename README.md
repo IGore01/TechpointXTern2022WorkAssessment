@@ -1,6 +1,8 @@
 # TechpointXTern2022WorkAssessment
 My Work Assessment Submission to be considered for the 2022 Techpoint Xtern program
 
+Thanks for taking this project into consideration - I hope you like it!
+
 ## Derived Conclusion:
 
 Coworking space deemed to be most convenient: Industrious Mass Ave
@@ -27,5 +29,3 @@ Coworking space deemed to be most convenient: Industrious Mass Ave
   
     The visualization created (and the data set used to create that visualizaiton) to see how convenient our coworking space is
     
-    
-Thanks for taking this project into consideration - I hope you like it!
