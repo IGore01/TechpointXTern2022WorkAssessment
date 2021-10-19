@@ -7,6 +7,6 @@ Coworking space deemed to be most convenient: Industrious Mass Ave
 
 ## Quick Sumamry of each folder:
 
-  Raw Data Sets:
-  
+  Code:
   Data Sets:
+  Deliverables:
