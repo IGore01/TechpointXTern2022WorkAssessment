@@ -1,7 +1,7 @@
 Here I will brief overview of the deliverables presented in this folder:
 Note: for a more detailed explanation on how these deliverables were created, please see the code folder.
 
-Table of Event Itinerary.csv:
+Table of Event Itinerary.csv: \n
   Table of the 5 (plus the one conference event) chosen as the events to be added to the 10 week program's itinerary.
   Week:
     the week (in terms of the 10 week Xtern program) at which the event takes place
