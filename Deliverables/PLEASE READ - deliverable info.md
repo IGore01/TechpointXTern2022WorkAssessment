@@ -24,28 +24,51 @@ Table of Event Itinerary.csv:
     the date / range of dates when the event takes place
     
   Time:
+  
     the time (if given) when the event takes place
+    
   Event Detail:
+  
     the type of event
+    
   Address:
+  
     the address associated with the location of the event
+    
+
 
 
 Table of Restaurant Itinerary.csv:
+
   Table of the 10 restaurants that were chosen to be a part of the weekly group dinners.
+  
   Week:
+  
     the week (in terms of the 10 week Xtern program) in which the restaurant is selected for the group dinner
+    
   Name:
+  
     the name of the restaurant
+    
   Location:
+  
     the address of the restaurant
+    
   Cost:
+  
     the cost range (if given) of the restaurant
     
+    
+    
 Table of Workspace and Travel Distances.csv
+
   A table that, given the chosen restaurants and events from the above tables, calculates the total travel distance required for each potential coworking space.
+  
   Name:
+  
     the name of the coworking space
+    
   Total Travel Distance Required (km):
+  
     the approximate total distance (in kilometers) one will need to travel if that location was selected as the coworking space
     
