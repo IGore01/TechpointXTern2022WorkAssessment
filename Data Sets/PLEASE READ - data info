@@ -1,4 +1,5 @@
 Here I will explain all of the info on the data sets in this folder:
+This folder contains only the raw data sets that were used to create the insights
  
  
 Table of All Events.csv:
@@ -18,6 +19,7 @@ Table of All Events.csv:
   Address:
     specific address associated with the event location
 
+
 Table of All Indy Restaurants.csv:
   Table of all the restaurants around Indianapolis that were taken into consideration for the itinerary and choice of coworking space
   Name:
@@ -27,15 +29,9 @@ Table of All Indy Restaurants.csv:
   Cost:
     the cost / cost range (if given) of the restaurant
     
-Table of Event Itinerary.csv:
-  
-  Week:
-  Event:
-  Location:
-  Date:
-  Time:
-  Event Detail:
-  Address:
+    
+Table of Workspaces.csv:
+  The exact same table that was provided consisting of the potential coworking spaces and housing location
 
 
 
