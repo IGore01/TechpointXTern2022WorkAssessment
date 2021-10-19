@@ -1,7 +1,4 @@
 Here I will explain all of the info on the data sets in this folder:
-
-Table of Workspaces.csv:
-  Exactly the dataset provided by techpoint
  
  
 Table of All Events.csv:
@@ -30,3 +27,19 @@ Table of All Indy Restaurants.csv:
   Cost:
     the cost / cost range (if given) of the restaurant
     
+Table of Event Itinerary.csv:
+  
+  Week:
+  Event:
+  Location:
+  Date:
+  Time:
+  Event Detail:
+  Address:
+
+
+
+
+
+Table of Workspaces.csv:
+  Exactly the dataset provided by techpoint
