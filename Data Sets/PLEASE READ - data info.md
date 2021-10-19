@@ -37,7 +37,7 @@ This folder contains only the raw data sets that were used to create the insight
 
 
 
-Table of All Indy Restaurants.csv:
+## Table of All Indy Restaurants.csv:
 
   Table of all the restaurants around Indianapolis that were taken into consideration for the itinerary and choice of coworking space
   
@@ -55,7 +55,7 @@ Table of All Indy Restaurants.csv:
     
     
     
-Table of Workspaces.csv:
+## Table of Workspaces.csv:
 
   The exact same table that was provided consisting of the potential coworking spaces and housing location
 
