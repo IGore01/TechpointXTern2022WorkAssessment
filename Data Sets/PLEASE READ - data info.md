@@ -1,6 +1,8 @@
 Here I will explain all of the info on the data sets in this folder:
 
-This folder contains only the raw data sets that were used to create the insights
+This folder contains the compiled data sets that were used to create the insights
+
+Note: the these compiled data sets were compiled using the raw data sets that can be found in the raw data sets folder.
  
  
 ## Table of All Events.csv:
@@ -39,7 +41,7 @@ This folder contains only the raw data sets that were used to create the insight
 
 ## Table of All Indy Restaurants.csv:
 
-  Table of all the restaurants around Indianapolis that were taken into consideration for the itinerary and choice of coworking space
+  Table of all the restaurants around Indianapolis that were taken into consideration for the itinerary and choice of coworking space.
   
   Name:
   
@@ -57,5 +59,5 @@ This folder contains only the raw data sets that were used to create the insight
     
 ## Table of Workspaces.csv:
 
-  The exact same table that was provided consisting of the potential coworking spaces and housing location
+  The exact same table that was provided consisting of the potential coworking spaces and housing location.
 
