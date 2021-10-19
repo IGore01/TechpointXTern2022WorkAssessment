@@ -38,7 +38,7 @@ Note: for a more detailed explanation on how these deliverables were created, pl
 
 
 
-Table of Restaurant Itinerary.csv:
+## Table of Restaurant Itinerary.csv:
 
   Table of the 10 restaurants that were chosen to be a part of the weekly group dinners.
   
@@ -60,7 +60,7 @@ Table of Restaurant Itinerary.csv:
     
     
     
-Table of Workspace and Travel Distances.csv
+## Table of Workspace and Travel Distances.csv
 
   A table that, given the chosen restaurants and events from the above tables, calculates the total travel distance required for each potential coworking space.
   
