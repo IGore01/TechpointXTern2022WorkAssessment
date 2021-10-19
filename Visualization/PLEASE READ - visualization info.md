@@ -18,7 +18,7 @@ This table simply provides the data that was used to create the above visualizat
 Name:
 
   Name of the event / restaurant / building
-  
+
 Latitude:
 
   Latitude of the location
