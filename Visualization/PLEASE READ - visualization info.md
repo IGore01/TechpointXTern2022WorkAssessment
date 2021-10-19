@@ -13,20 +13,21 @@ centralized among the other events, restaurants, and housing locations.
 
 ## Location Data for Tableau.csv
 
-This table simply provides the data that was used to create the above visualization using Tableau.
+  This table simply provides the data that was used to create the above visualization using Tableau.
 
-Name:
+  Name:
 
-  Name of the event / restaurant / building
+    Name of the event / restaurant / building
 
-Latitude:
+  Latitude:
 
-  Latitude of the location
+    Latitude of the location
 
-Longitude:
+  Longitude:
 
-  Longitude of the location
+    Longitude of the location
   
-Type:
+  Type:
 
-  The type (Event, Restaurant, Housing, Coworking) that the object is
+    The type (Event, Restaurant, Housing, Coworking) that the object is
+
